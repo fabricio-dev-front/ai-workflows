@@ -1,40 +1,39 @@
-# AI Workflows
+# Fluxos de Trabalho com IA
 
-A personal collection of resources for AI-assisted software engineering and development.
+Uma coleção pessoal de recursos para engenharia e desenvolvimento de software assistidos por IA.
 
-This repository brings together custom skills, workflows, AI agent configurations, prompts, and other resources created to improve productivity, streamline development processes, and enhance the way I work with AI tools.
+Este repositório reúne habilidades personalizadas, fluxos de trabalho, configurações de agentes de IA, *prompts* e outros recursos criados para aumentar a produtividade, otimizar processos de desenvolvimento e aprimorar a forma como trabalho com ferramentas de IA.
 
-It serves as a personal knowledge base where I continuously build, organize, and refine reusable resources based on practical experience and real-world needs.
+Ele funciona como uma base de conhecimento pessoal, na qual construo, organizo e refino continuamente recursos reutilizáveis, com base em experiências práticas e necessidades reais.
 
-Although primarily developed for personal use, this repository is public and open to anyone interested in exploring, using, and adapting its resources.
+Embora tenha sido desenvolvido, a princípio, para uso pessoal, este repositório é público e está aberto a qualquer pessoa interessada em explorar, utilizar e adaptar seus recursos.
 
-## Repository Contents
+## Conteúdo do Repositório
 
-The repository may include:
+O repositório pode incluir:
 
-- **Skills:** Custom instructions and capabilities that extend AI tools with specialized knowledge and behaviors.
-- **Agents:** Specialized AI agent configurations designed for specific roles and responsibilities.
-- **Workflows:** Structured processes for recurring development and engineering activities.
-- **Prompts:** Reusable prompts for technical tasks, problem-solving, and productivity.
-- **Configurations:** Custom settings and guidelines for AI-powered development environments.
+- **Habilidades (*Skills*):** Instruções e capacidades personalizadas que expandem as ferramentas de IA com conhecimentos e comportamentos especializados.
+- **Agentes:** Configurações de agentes de IA especializados, projetados para funções e responsabilidades específicas.
+- **Fluxos de Trabalho (*Workflows*):** Processos estruturados para atividades recorrentes de desenvolvimento e engenharia.
+- **Prompts:** Comandos reutilizáveis ​​para tarefas técnicas, resolução de problemas e produtividade.
+- **Configurações:** Ajustes e diretrizes personalizados para ambientes de desenvolvimento baseados em IA.
 
-## Philosophy
+## Filosofia
 
-- **Practicality:** Resources are built around real problems and everyday development needs.
-- **Reusability:** Create resources that can be applied across different projects and environments whenever possible.
-- **Continuous Improvement:** Regularly refine resources based on experience, feedback, and new approaches.
-- **Consistency:** Establish structured and reliable ways of working with AI tools.
-- **Knowledge Sharing:** Make useful resources publicly available so others can benefit from and contribute to them.
+- **Praticidade:** Os recursos são criados a partir de problemas reais e necessidades cotidianas de desenvolvimento.
+- **Reutilizabilidade:** Criação de recursos que, sempre que possível, possam ser aplicados em diferentes projetos e ambientes.
+- **Melhoria Contínua:** Refinamento constante dos recursos com base na experiência, no *feedback* e em novas abordagens.
+- **Consistência:** Estabelecimento de formas estruturadas e confiáveis ​​de trabalhar com ferramentas de IA.
+- **Compartilhamento de Conhecimento:** Disponibilização pública de recursos úteis, permitindo que outros também se beneficiem deles e possam contribuir.
 
-## Usage
+## Uso
 
-Feel free to explore the repository and use any resource that fits your needs.
+Sinta-se à vontade para explorar o repositório e utilizar qualquer recurso que atenda às suas necessidades.
 
-You can adapt, modify, and incorporate these resources into your own projects and workflows.
+Você pode adaptar, modificar e incorporar esses recursos aos seus próprios projetos e fluxos de trabalho.
 
-Some resources may reflect personal preferences or specific tool configurations, so adjustments may be necessary.
+Como alguns recursos podem refletir preferências pessoais ou configurações específicas de determinadas ferramentas, ajustes podem ser necessários.
 
-## Disclaimer
+## Aviso
 
-This repository is maintained primarily for personal use. Resources are shared as they are developed and improved, and may evolve over time.
-
+Este repositório é mantido, prioritariamente, para uso pessoal. Os recursos são compartilhados conforme são desenvolvidos e aprimorados, podendo evoluir ao longo do tempo.
