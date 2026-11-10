@@ -8,16 +8,6 @@ Ele funciona como uma base de conhecimento pessoal, na qual construo, organizo e
 
 Embora tenha sido desenvolvido, a princípio, para uso pessoal, este repositório é público e está aberto a qualquer pessoa interessada em explorar, utilizar e adaptar seus recursos.
 
-## Conteúdo do Repositório
-
-O repositório pode incluir:
-
-- **Habilidades (*Skills*):** Instruções e capacidades personalizadas que expandem as ferramentas de IA com conhecimentos e comportamentos especializados.
-- **Agentes:** Configurações de agentes de IA especializados, projetados para funções e responsabilidades específicas.
-- **Fluxos de Trabalho (*Workflows*):** Processos estruturados para atividades recorrentes de desenvolvimento e engenharia.
-- **Prompts:** Comandos reutilizáveis ​​para tarefas técnicas, resolução de problemas e produtividade.
-- **Configurações:** Ajustes e diretrizes personalizados para ambientes de desenvolvimento baseados em IA.
-
 ## Filosofia
 
 - **Praticidade:** Os recursos são criados a partir de problemas reais e necessidades cotidianas de desenvolvimento.
